@@ -1,4 +1,5 @@
 # Chess.com X Discord event 2024
+# 1 month Free Diamond subscription code generator (without validation)
 # Written by XyrenChess on 5th Sep 2024
 
 import string, random
