@@ -10,7 +10,7 @@ def scrap(time: int) -> None:
         for i in range(int(time)):
             code = ''.join(random.choices(chars, k=5))
             print(f"DISCORD124-{code}")
-            print("! Redeem at https://www.chess.com/special\n\n-----Session ended-----")
+        print("! Redeem at https://www.chess.com/special\n\n-----Session ended-----")
     except:
         print("Please specify value for code generation.")
 
